@@ -23,7 +23,6 @@ test
 .(yarn|npm|nvm)rc
 *.md
 *.nix
-Dockerfile*
 LICENSE
 app.json
 eslint.config.mjs
